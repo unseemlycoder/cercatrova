@@ -1,5 +1,5 @@
 # cercatrova
-Kalpana Hackathon Project
+Kalpana Hackathon Project / Smart India Hackathon 2020 BuildOver
 
 Problem Statement
 One of the crucial issues for emergency medical service (EMS) in metropolis city is traffic congestion. Especially, the ambulance services are highly affected. Their response time increases leading to the causes of death and disabilities of patients in crisis, which impose severe socio-economic costs across the world. Devise a solution using technology to manage traffic for the ambulance to reach faster.
